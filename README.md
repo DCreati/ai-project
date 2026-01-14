@@ -1,11 +1,14 @@
 # Dynamic-RAG
 
+## Membri del gruppo
+- Davide Creati
+- Martino Pettinari
+
 ## Risorse
 
 - 2WikiMultihopQA: https://www.aclweb.org/anthology/2020.coling-main.580/
 - DRAGIN: https://arxiv.org/abs/2403.10081
 - RAG Survey: https://arxiv.org/abs/2402.19473
-
 
 ## Overview  DRAGIN: Dynamic Retrieval Augmented Generation
 
